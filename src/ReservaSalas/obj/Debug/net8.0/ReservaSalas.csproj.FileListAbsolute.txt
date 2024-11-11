@@ -1,0 +1,11 @@
+C:\Users\victo\OneDrive\Área de Trabalho\ProjetoReservaSalas\src\ReservaSalas\bin\Debug\net8.0\ReservaSalas.deps.json
+C:\Users\victo\OneDrive\Área de Trabalho\ProjetoReservaSalas\src\ReservaSalas\bin\Debug\net8.0\ReservaSalas.dll
+C:\Users\victo\OneDrive\Área de Trabalho\ProjetoReservaSalas\src\ReservaSalas\bin\Debug\net8.0\ReservaSalas.pdb
+C:\Users\victo\OneDrive\Área de Trabalho\ProjetoReservaSalas\src\ReservaSalas\obj\Debug\net8.0\ReservaSalas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\OneDrive\Área de Trabalho\ProjetoReservaSalas\src\ReservaSalas\obj\Debug\net8.0\ReservaSalas.AssemblyInfoInputs.cache
+C:\Users\victo\OneDrive\Área de Trabalho\ProjetoReservaSalas\src\ReservaSalas\obj\Debug\net8.0\ReservaSalas.AssemblyInfo.cs
+C:\Users\victo\OneDrive\Área de Trabalho\ProjetoReservaSalas\src\ReservaSalas\obj\Debug\net8.0\ReservaSalas.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Área de Trabalho\ProjetoReservaSalas\src\ReservaSalas\obj\Debug\net8.0\ReservaSalas.dll
+C:\Users\victo\OneDrive\Área de Trabalho\ProjetoReservaSalas\src\ReservaSalas\obj\Debug\net8.0\refint\ReservaSalas.dll
+C:\Users\victo\OneDrive\Área de Trabalho\ProjetoReservaSalas\src\ReservaSalas\obj\Debug\net8.0\ReservaSalas.pdb
+C:\Users\victo\OneDrive\Área de Trabalho\ProjetoReservaSalas\src\ReservaSalas\obj\Debug\net8.0\ref\ReservaSalas.dll
